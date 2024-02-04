@@ -1,3 +1,6 @@
+Warm-blooded animals include birds and mammals, while reptiles, fishes, amphibians, and invertebrates are cold-blooded. Vertebrates include fishes, reptiles, amphibians, birds and mammals. These are distinguished from invertebrates based on the presence of vertebral column invertebrates.
+
+
 1. Inheritance:
 Inheritance in JavaScript is implemented using prototype chaining. It allows objects to inherit properties and methods from other objects.
 
